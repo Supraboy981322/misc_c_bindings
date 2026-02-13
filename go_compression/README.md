@@ -4,6 +4,10 @@ Basic functionality (compress and decompress C strings).
 
 ---
 
+### for a usage example (in Zig), see [the examples directory](./example/README.md)
+
+---
+
 ## compression types
 - gzip (Go standard library)
 - zlib (Go standard library)
